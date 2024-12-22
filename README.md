@@ -11,4 +11,4 @@ Features ✨
 Technologies Used 🛠️
 1. HTML: Structure of the webpage. 
 2. CSS: Styling and layout using custom styles. 
-3. JavaScript: Logic to generate the password, change its length, and handle the clipboard functionality. 
+3. JavaScript: Logic to generate the password, change its length, and handle the clipboard functionality.

@@ -1,3 +1,5 @@
+![Project Preview](dist/images/img_readme.png)
+
 Random-Password-Maker 🔑
 
 This is a simple web-based application built with HTML, CSS, and JavaScript. It allows users to generate secure and random passwords of different lengths (8, 12, or 16 characters), customize the password's contents (including upper/lowercase letters, numbers, and symbols), and copy the password to the clipboard with a single click.

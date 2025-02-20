@@ -1,16 +1,25 @@
-<h3 align="center">Random-Password-Maker 🔑</h3>
+<h1 align="center">Password Maker 🔑</h1>
 
-This is a simple web-based application built with HTML, CSS, and JavaScript. It allows users to generate secure and random passwords of different lengths (8, 12, or 16 characters), customize the password's contents (including upper/lowercase letters, numbers, and symbols), and copy the password to the clipboard with a single click.
+<p align="center">
+  <strong>A modern and secure password generator built with React and Vite.</strong>
+</p>
 
-<h4>Features ✨</h4>
+## Features ✨
 
-1. Generate Random Passwords: Creates a password with a mix of uppercase letters, lowercase letters, numbers, and symbols.
-2. Password Length Options: Choose from 8, 12, or 16 characters for the generated password.
-3. Clipboard Copy: Easily copy the generated password to your clipboard with a single click.
-4. Responsive Design: The app is responsive and works well on both mobile and desktop devices.
+1. **Generate Random Passwords**: Create strong and secure passwords with a mix of:
+   - Uppercase and lowercase letters
+   - Numbers (optional)
+   - Special symbols (optional)
+2. **Customizable Password Length**: Adjust the password length using a slider (6 to 100 characters).
+3. **Clipboard Copy**: Easily copy the generated password to your clipboard with a single click.
+4. **Responsive Design**: Works seamlessly on both desktop and mobile devices.
+5. **Attractive UI**: Modern and vibrant design with a gradient background and smooth animations.
 
-<h4>Technologies Used 🛠️</h4>
+---
 
-1. HTML: Structure of the webpage.
-2. CSS: Styling and layout using custom styles.
-3. JavaScript: Logic to generate the password, change its length, and handle the clipboard functionality.
+## Technologies Used 🛠️
+
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A fast build tool for modern web development.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **JavaScript**: Logic for password generation, length customization, and clipboard functionality.
